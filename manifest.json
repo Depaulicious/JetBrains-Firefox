@@ -1,0 +1,15 @@
+{
+   "content_scripts": [ {
+      "js": [ "jetbrains-toolbox-common.js", "jetbrains-toolbox-github.js" ],
+      "matches": [ "*://*.github.com/*" ]
+   } ],
+   "description": "This extension adds link to open project from GitHub in IntelliJ-based IDEs",
+   "icons": {
+      "128": "icon-128.png"
+   },
+   "manifest_version": 2,
+   "name": "JetBrains Toolbox Extension",
+   "permissions": [ "activeTab", "*://*.github.com/*" ],
+   "version": "1.2.2208",
+   "web_accessible_resources": [ "*.svg" ]
+}

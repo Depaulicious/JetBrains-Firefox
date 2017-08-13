@@ -1,0 +1,29 @@
+core-js@2.4.1 (https://www.npmjs.com/package/core-js)
+MIT (http://opensource.org/licenses/MIT)
+
+github-url-to-object@2.1.0 (https://www.npmjs.com/package/github-url-to-object)
+MIT (http://opensource.org/licenses/MIT)
+
+inherits@2.0.3 (https://www.npmjs.com/package/inherits)
+ISC (http://opensource.org/licenses/ISC)
+
+is-url@1.2.2 (https://www.npmjs.com/package/is-url)
+MIT (http://opensource.org/licenses/MIT)
+
+process@0.11.9 (https://www.npmjs.com/package/process)
+MIT (http://opensource.org/licenses/MIT)
+
+punycode@1.4.1 (https://www.npmjs.com/package/punycode)
+MIT (http://opensource.org/licenses/MIT)
+
+querystring@0.2.0 (https://www.npmjs.com/package/querystring)
+MIT (https://github.com/Gozala/enchain/License.md)
+
+url@0.10.3 (https://www.npmjs.com/package/url)
+MIT (http://opensource.org/licenses/MIT)
+
+util@0.10.3 (https://www.npmjs.com/package/util)
+MIT (http://opensource.org/licenses/MIT)
+
+whatwg-fetch@0.10.1 (https://www.npmjs.com/package/whatwg-fetch)
+MIT (https://github.com/github/fetch/blob/master/LICENSE)
